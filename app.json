@@ -2,7 +2,7 @@
 {
     "name": "Allinonebot",
     "description": "ALLINONEBOT",
-    "repository": "https://github.com/Ekvilai9/careerwill1",
+    "repository": "https://github.com/Devdeewana/Extractor478",
     "keywords": [
         "telegram bot",
         "pyrogram"
@@ -10,17 +10,17 @@
     "env": {
             "API_ID": {
             "description": "Your API_ID from https://my.telegram.org/apps",
-            "value": "15816419",
+            "value": "29805338",
             "required": true
         },
         "API_HASH": {
             "description": "Your API_HASH from https://my.telegram.org/apps",       
-            "value": "626ed6dab78881858778d9663682962e",
+            "value": "6a506ca1f31e3507f2781d01e29e324c",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Your Bot token from @Botfather",
-            "value": "6415777909:AAE72fd1b1GVkICgNRll8OvHhplORD_57qg",
+            "value": "6266087192:AAGqaHjrIYRXmQoam8ajgAnuY-fjIM8D78g",
             "required": true
         }
     }
